@@ -17,8 +17,9 @@ public class Exercicio05 {
 		//Processamento
 		centimentros = (metros * 100);
 		
-		//Saída
-		System.out.println(metros + " metros em centimetros é " + centimentros + " centimetros");
+		//Saï¿½da
+		System.out.println(metros + " metros em centimetros ï¿½ " + centimentros + " centimetros");
+		teclado.close();
 	}
-
+		
 }
