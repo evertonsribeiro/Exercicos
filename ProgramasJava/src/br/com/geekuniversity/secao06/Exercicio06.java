@@ -5,14 +5,11 @@ import java.util.Scanner;
 public class Exercicio06 {
 
 	public static void main(String[] args) {
-		// variaveis
-		int c;
 		float n, e =0, salario, valor_hora = (float)10.00;
 		Scanner teclado = new Scanner(System.in);
 		
 		// entrada
-		System.out.println("informe o código: ");
-		c = teclado.nextInt();
+		System.out.println("informe o cï¿½digo: ");
 		System.out.println("Informe a quantidade de horas trabalhadas: ");
 		n = teclado.nextFloat();
 		
